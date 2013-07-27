@@ -41,7 +41,7 @@ class Openttd < Formula
       OpenTTD.app installed to: #{prefix}
       If you have access to the sound and graphics files from the original
       Transport Tycoon Deluxe, you can install them by following the
-      instructions in section 4.1 of #{prefix}/README
+      instructions in section 4.1 of #{prefix}/readme.txt
     EOS
   end
 end
